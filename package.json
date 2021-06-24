@@ -1,6 +1,6 @@
 {
   "name": "mixin-transaction-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "decode/build Mixin transaction",
   "main": "index.js",
   "author": "an-lee",
