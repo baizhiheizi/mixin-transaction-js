@@ -1,9 +1,4 @@
-import * as mixnGo from "./transaction";
+require("./transaction");
 
-const decodeTransaction = mixnGo.decodeTransaction;
-const buildTransaction = mixnGo.buildTransaction;
-
-export default {
-  decodeTransaction,
-  buildTransaction,
-};
+exports.decodeTransaction = mixinGo.decodeTransaction
+exports.buildTransaction = mixinGo.buildTransaction
